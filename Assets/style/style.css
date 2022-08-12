@@ -1,0 +1,88 @@
+h1 {
+	
+	text-align: center;
+}
+
+label {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.card {
+	margin: 5px;
+}
+
+.colOne {
+	background-color: rgb(255, 255, 255);
+}
+
+.colTwo {
+	background-color: rgb(255, 255, 255);
+}
+
+.forBtnRow {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.green{
+  color: green;
+}
+
+.yellow{
+  color: yellow;
+}
+
+.orange{
+	color: orange;
+  }
+
+  .red{
+  background-color: red;
+}
+
+.icons {
+	height: 70px;
+	width: 70px;
+}
+
+.cardTodayDate {
+	font-size: 20px;
+}
+
+html, body, .container-fluid, .content-row {
+	height: 100%;
+}
+
+.hide {
+display: none;
+}
+	
+.city-btn:hover {
+	background-color: #f6f5f5;
+	cursor: pointer;
+}
+	
+.card {
+	background-color: #cce5ff;
+}
+
+#bg {
+	position: fixed; 
+	top: -50%; 
+	left: -50%; 
+	width: 200%; 
+	height: 200%;
+}
+	
+#bg img {
+	position: absolute; 
+	top: 0; 
+	left: 0; 
+	right: 0; 
+	bottom: 0; 
+	margin: auto; 
+	min-width: 50%;
+	min-height: 50%;
+}	
