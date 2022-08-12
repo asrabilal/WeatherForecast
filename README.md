@@ -30,7 +30,7 @@ JQuery
 Links for your review:
 
 * The URL of the deployed application.
-https://asrabilal.github.io/Work-Day-Scheduler/
+https://asrabilal.github.io/WeatherForecast/
 
 
 * The URL of the GitHub repository. 
