@@ -20,9 +20,9 @@ JQuery
 
 # ScreenShots
 
-![Page 1](./Assests/images/11.png)
-![Page 2](./Assests/images/12.png)
-![Page 3 with Hover effect](./Assests/images/13.png)
+![Page 1](./Assets/images/11.png)
+![Page 2](./Assets/images/12.png)
+![Page 3 with Hover effect](./Assets/images/13.png)
 
 
 # Links
