@@ -34,6 +34,6 @@ https://asrabilal.github.io/Work-Day-Scheduler/
 
 
 * The URL of the GitHub repository. 
-https://github.com/asrabilal/Work-Day-Scheduler.git
+https://github.com/asrabilal/WeatherForecast.git
 
 © 2022 Asra Solution Sevices, Inc.
